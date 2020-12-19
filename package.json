@@ -1,0 +1,19 @@
+{
+  "name": "guess-my-number",
+  "version": "1.0.0",
+  "description": "\"This is game with guessing number\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zourdycodes/guess-my-number.git"
+  },
+  "author": "\"Mohammed Zourdy\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zourdycodes/guess-my-number/issues"
+  },
+  "homepage": "https://github.com/zourdycodes/guess-my-number#readme"
+}
